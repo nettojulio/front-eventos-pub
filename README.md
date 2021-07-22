@@ -1,14 +1,12 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# DOM
+# Eventos
 
 ## Exercícios de classe 🏫
-1.  Slider de depoimentos
-2.  Popup
+1.  Filtro de produtos
+2.  Quiz
+3.  Inscrição em Canal
 
-## Exercícios de casa 🏠
-3. Frases motivadoras
-4. Contatos frequentemente contatados
 
 Preencha a checklist para fazer os exercícios:
 

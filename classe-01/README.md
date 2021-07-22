@@ -2,22 +2,18 @@
 
 # Exercício de classe 🏫
 
-## Slider de depoimentos
+## Filtro de produtos
 
-Dado o arquivo html e css encontrado nesta pasta, crie dentro do elemento `<script>` um código que reproduza [o seguinte comportamento](https://i.imgur.com/DGXHIw7.gif).
+Seu objetivo é criar um filtro de produtos.
 
-**Neste exercício usaremos:**
- - evento de clique
- - seletor de elementos da DOM
- - manipulação de texto dos elementos
+Comportamentos esperados:
+- O usuário poderá digitar qualquer valor no input, assim que ele teclar "Enter" enquanto estiver focado no input, você deverá esconder qualquer produto que não esteja de acordo com o filtro do usuário (esse filtro pode ser por nome, categoria, tags, etc. O quê você preferir).
+- O valor do input deverá ser limpo após o filtro.
+- Se o usuário teclar "Enter" com o input vazio, o filtro terá que ser desfeito
 
-Você deverá implementar no mínimo duas funções: 
- - `pessoaAnterior()` 
-  - Mudar os conteúdos dos elementos: `.carousel__img`, `.review-text`, `.author__name`, `.author__title` para os conteúdos da pessoa anterior
- - `proximaPessoa()`
-  - Mudar os conteúdos dos elementos: `.carousel__img`, `.review-text`, `.author__name`, `.author__title` para os conteúdos da próxima pessoa
+O código HTML e CSS presentes no projeto são uma base, você pode modificar o estilo/estrutura da página desde que sua aplicação tenha os comportamentos esperados acima!
 
-Se necessário, crie outras funções e varíaveis além das que já estão dentro do `<script>`
+Fique livre para implementar isso da maneira que se sentir mais confortável!
 
 ---
 
