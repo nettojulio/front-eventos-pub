@@ -14,7 +14,7 @@ botaoConfirmar.addEventListener('click', function () {
     botaoInscrever.classList.remove('inscrito');
     botaoInscrever.textContent = 'INSCREVER-SE';
     modal.classList.add('escondido');
-})
+});
 
 function inscrever(event) {
     const botaoClicado = event.target;
