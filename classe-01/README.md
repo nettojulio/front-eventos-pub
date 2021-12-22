@@ -4,9 +4,12 @@
 
 ## Filtro de produtos
 
+<https://front-eventos-pub-classe-01.vercel.app/>
+
 Seu objetivo é criar um filtro de produtos.
 
 Comportamentos esperados:
+
 - O usuário poderá digitar qualquer valor no input, assim que ele teclar "Enter" enquanto estiver focado no input, você deverá esconder qualquer produto que não esteja de acordo com o filtro do usuário (esse filtro pode ser por nome, categoria, tags, etc. O quê você preferir).
 - O valor do input deverá ser limpo após o filtro.
 - Se o usuário teclar "Enter" com o input vazio, o filtro terá que ser desfeito
